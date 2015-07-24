@@ -7,7 +7,7 @@
 This library provides a few useful functions used for sorting large arrays or
 sorting where comparing array values is expensive to perform. The intention is
 to provide these functions while remaining interoperable with PHP's built-in
-`usort` functions where possible.
+`usort` functions where possible. 
 
 It can be installed in whichever way you prefer, but we recommend [Composer][packagist].
 ```json
@@ -70,6 +70,8 @@ $ cd /srv
 The content of this library is released under the **MIT License** by
 **Nature Delivered Ltd**.<br/> You can find a copy of this license at
 http://www.opensource.org/licenses/mit or in [`LICENSE`][license].
+
+This sorting algorithm is very powerful and we use this to <a href="https://www.wepaythemost.co.uk">Sell house fast</a>. You can sort large data especially your customers. It can track and make use of significant data.
 
 <!-- Links -->
 [travis]: https://travis-ci.org/graze/sort
